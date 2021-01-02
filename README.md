@@ -1,2 +1,2 @@
-# Bouncy-Paddle-
+# Bouncy-Paddle
 Bouncy paddle game
